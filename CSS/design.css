@@ -1,0 +1,11 @@
+button{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    cursor: pointer;
+    font-size: 40px;
+}
+#name{
+    color: red;
+    font-weight: bold;
+}
